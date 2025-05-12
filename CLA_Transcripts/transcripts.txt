@@ -1,0 +1,29 @@
+CLA Mixing Techniques — Excerpts & Rules
+
+1. Parallel compression on kick and snare — blend crushed tone underneath main kit for added weight and attack.
+2. Always EQ before compression. Cut mud, then shape dynamics.
+3. Boost 8kHz on overheads to bring out cymbal air without harshness.
+4. De-ess the reverb send on vocals — not the main vocal — to tame harsh sibilance.
+5. Vocal chain: FG-76 (slow grind) → FG-116 (punch) → EQ (cut 300Hz, boost 10kHz) → De-esser → FX sends.
+6. Use LCR panning to open the mix. Guitars hard left/right, vocals and bass center.
+7. Kick drum EQ: Boost 60Hz, scoop 300Hz, slight boost at 3.5kHz for click.
+8. Snare drum: Cut 400Hz boxiness, boost 200Hz body, add snap around 4.5kHz.
+9. Print vocal delays/reverbs to audio — allows fader riding and precise muting between phrases.
+10. Bass: Low-pass around 4kHz, compress heavily but don’t squash the attack transient. Use SSL comp with slow attack.
+11. Vocal reverb: Short plate for intimacy, longer hall for choruses.
+12. Group background vocals and apply one consistent stereo reverb and one slap delay.
+13. Print samples for drums when needed, but blend subtly so original shells lead the tone.
+14. Use saturation for harmonic glue — subtle on guitars, heavier on drum bus.
+15. Mix bus chain: VTM → SSL Comp (2:1, slow attack) → EQ lift at 10kHz → FG-X limiter (ceiling -0.1dB, keep dynamics).
+16. Toms: Gate hard if bleed is messy, or just high-pass at 80Hz and boost 2.5kHz if clean.
+17. CLA loves **tall** mixes — meaning deep low-end, crisp highs, nothing clouding the middle.
+18. Clip gain vocal phrases before compression to preserve tone consistency.
+
+Notes:
+- Avoid over-EQing at the track level. Do subtle adjustments per track, then glue on busses.
+- Think like a console: what would you do with 4 fingers on a real board?
+
+CLA’s Mantras:
+- “Mix like it’s going to FM radio.”
+- “Control the energy, not just the volume.”
+- “If you’re not turning the knobs with purpose, you’re turning them wrong.”
